@@ -9,8 +9,7 @@ Animal Identification Machine
 青蛙 : 5000 ( 訓練 )、1001 ( 測試 )
 
 選用模型:DensNet
-![image](https://user-images.githubusercontent.com/78140351/165757266-d86de5f2-a855-41bf-8a95-c4231b9537b1.png)
-
+![image](https://user-images.githubusercontent.com/78140351/165757398-7c2ad839-af64-42e8-963a-a7432a4e0bd2.png)
 
 Train accuracy : 0 . 9996004104614258
 
